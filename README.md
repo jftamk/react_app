@@ -1,5 +1,10 @@
 # react_app
-react app practise for React course (2021)
+This react app was made as practise work for React course(2021).
+It's simple ToDo application where you can add and control To Do items.
+
+Link for trying the app:
+https://todo-u319.onrender.com/
+
 Starting look
 ![react1](https://user-images.githubusercontent.com/77788188/233980331-e9f0fb29-9cb0-468c-ae7d-cab38582f430.png)
 Look with added items
